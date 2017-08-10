@@ -11,7 +11,7 @@
 
 
 ```
-cd /path/to/clone
+cd /path/to/dummy-http-forward-proxy
 docker-compose up
 ```
 
